@@ -1,0 +1,22 @@
+.navbar-bg{
+    background-color: #618264;
+}
+
+.body-bg{
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Sesuaikan dengan kebutuhan Anda */
+    margin: 0; /* Hapus margin default dari body */
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-login{
+    background: #B0D9B1;
+}
+
+.logo-brand{
+    font-family: 'fondamento';
+}
